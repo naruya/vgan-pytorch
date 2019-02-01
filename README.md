@@ -4,4 +4,4 @@
 
 paper: https://arxiv.org/abs/1810.00821
 
-![learning curves](img/Screenshot\ from\ 2019-02-01\ 21-21-39.png)
+![learning curves](img/vgan-mnist.png)
