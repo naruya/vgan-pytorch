@@ -12,7 +12,6 @@ paper: https://arxiv.org/abs/1810.00821
 
 ![](img/vgan-mnist/epoch_025.png)
 
-
 ## vgan-celebA
 
 - about 200,000 samples
